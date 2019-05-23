@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/boilerplate/static/css/main.77220437.chunk.css",
+    "main.js": "/boilerplate/static/js/main.6b7bbf8b.chunk.js",
+    "main.js.map": "/boilerplate/static/js/main.6b7bbf8b.chunk.js.map",
+    "runtime~main.js": "/boilerplate/static/js/runtime~main.4a26d041.js",
+    "runtime~main.js.map": "/boilerplate/static/js/runtime~main.4a26d041.js.map",
+    "static/js/2.b41502e9.chunk.js": "/boilerplate/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/boilerplate/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/boilerplate/index.html",
+    "precache-manifest.4b45410596df83e39a877c1e14c7f978.js": "/boilerplate/precache-manifest.4b45410596df83e39a877c1e14c7f978.js",
+    "service-worker.js": "/boilerplate/service-worker.js",
+    "static/css/main.77220437.chunk.css.map": "/boilerplate/static/css/main.77220437.chunk.css.map",
+    "static/media/logo.svg": "/boilerplate/static/media/logo.5d5d9eef.svg"
+  }
+}
