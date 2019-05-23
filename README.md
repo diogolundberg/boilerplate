@@ -1,13 +1,13 @@
 # 📦 boilerplate.it
 
-## Requirements
+### Requirements
 
 The following software is required to be installed locally in order to get this project running:
 
 * node
 * yarn
 
-## Run the project
+### Run the project
 
 1. Download dependencies
 ```
@@ -19,7 +19,7 @@ yarn
 yarn start
 ```
 
-## Deploy
+### Deploy
 
 1. Build the project
 ```
